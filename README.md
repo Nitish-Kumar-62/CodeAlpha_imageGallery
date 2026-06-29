@@ -1,6 +1,9 @@
 # 📸 Responsive Image Gallery
 
 A modern and responsive **Image Gallery** built using **HTML, CSS, and JavaScript**. The project includes category filters, hover effects, a lightbox popup, and next/previous image navigation.
+## 🎯 Project Objective
+
+This project was developed as part of the *@CodeAlpha Frontend Development Internship task - 2 ** to demonstrate HTML, CSS, and JavaScript skills through an interactive image gallery.
 
 ## 🚀 Features
 
@@ -56,9 +59,6 @@ No additional software or installation is required.
 
 The gallery automatically adjusts its layout for desktops, tablets, and mobile devices.
 
-## 🎯 Project Objective
-
-This project was developed as part of the *@CodeAlpha Frontend Development Internship** to demonstrate HTML, CSS, and JavaScript skills through an interactive image gallery.
 
 ## 👨‍💻 Author
 
