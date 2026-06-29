@@ -21,12 +21,11 @@ A modern and responsive **Image Gallery** built using **HTML, CSS, and JavaScrip
 ## 📂 Project Structure
 
 ```
-Image-Gallery/
+CodeAlpha_ImageGallery
 │── index.html
-│── style.css
-│── script.js
 └── README.md
-```
+            |__ImageGallery(Screenshort)
+
 
 ## 📁 Categories Included
 
@@ -59,12 +58,9 @@ The gallery automatically adjusts its layout for desktops, tablets, and mobile d
 
 ## 🎯 Project Objective
 
-This project was developed as part of the **CodeAlpha Frontend Development Internship** to demonstrate HTML, CSS, and JavaScript skills through an interactive image gallery.
+This project was developed as part of the *@CodeAlpha Frontend Development Internship** to demonstrate HTML, CSS, and JavaScript skills through an interactive image gallery.
 
 ## 👨‍💻 Author
 
-**Nitish Rana**
+**Nitish Kumar**
 
-## 📄 License
-
-This project is created for educational and internship purposes.
