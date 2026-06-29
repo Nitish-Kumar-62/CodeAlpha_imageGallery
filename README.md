@@ -46,6 +46,14 @@ CodeAlpha_ImageGallery
 3. Open `index.html` in any modern web browser.
 
 No additional software or installation is required.
+## 🌐 Live Project
+
+👉 GitHub Repository:
+
+
+👉 Live Demo (GitHub Pages):
+ 
+
 
 ## 📸 Main Functionalities
 
@@ -63,4 +71,13 @@ The gallery automatically adjusts its layout for desktops, tablets, and mobile d
 ## 👨‍💻 Author
 
 **Nitish Kumar**
+Frontend Development Intern – @CodeAlpha
+
+📧 Email : nitish62ni@gmail.com
+
+
+🔗 GitHub: https://github.com/Nitish-Kumar-62
+
+💼 LinkedIn: https://www.linkedin.com/in/nitish-kumar-0201n2005/
+
 
