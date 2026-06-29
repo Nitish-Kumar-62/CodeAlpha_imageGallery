@@ -48,7 +48,7 @@ CodeAlpha_ImageGallery
 No additional software or installation is required.
 ## 🌐 Live Project
 
-👉 GitHub Repository:
+👉 GitHub Repository:https://github.com/Nitish-Kumar-62/CodeAlpha_imageGallery
 
 
 👉 Live Demo (GitHub Pages):
